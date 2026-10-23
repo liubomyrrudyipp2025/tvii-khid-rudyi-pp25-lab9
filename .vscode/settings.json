@@ -4,7 +4,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "liveServer.settings.host": "127.0.0.1",
-  "liveServer.settings.port": 5503,
+  "liveServer.settings.port": 5509,
   "liveServer.settings.NoBrowser": true,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "git.autofetch": false

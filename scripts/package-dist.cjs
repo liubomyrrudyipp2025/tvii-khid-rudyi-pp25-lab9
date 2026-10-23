@@ -13,6 +13,7 @@ const files = [
   "css/custom-styles.css",
   "js/demo.js",
   "js/hero-media.js",
+  "js/validation.js",
   "widgets/clock.shtml",
   "widgets/clock.js",
 ];

@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Lab8: Git verification",
+      "label": "Lab9: Git verification",
       "type": "shell",
       "command": "git --version && git status && git log --oneline --graph --decorate -8",
       "options": {"cwd": "${workspaceFolder}"},

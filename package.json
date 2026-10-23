@@ -1,8 +1,8 @@
 {
-  "name": "tvii-khid-lab8-deployment",
+  "name": "tvii-khid-lab9-feedback",
   "version": "1.0.0",
   "private": true,
-  "description": "Навчальний лендинг «Твій Хід» — ЛР8: Git та деплой",
+  "description": "Навчальний лендинг «Твій Хід» — ЛР9: форма та клієнтська валідація",
   "scripts": {
     "format": "prettier --write index.html css/custom-styles.css js/demo.js tailwind.config.cjs scripts/*.cjs",
     "format:check": "prettier --check index.html css/custom-styles.css js/demo.js tailwind.config.cjs scripts/*.cjs",
