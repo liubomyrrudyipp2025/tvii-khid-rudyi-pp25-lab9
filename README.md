@@ -35,4 +35,8 @@ node --test tests/validation.test.cjs
 
 ## Публікація
 
-Поки це локальна версія ЛР9. Окремий GitHub-репозиторій і production-сайт ще не опубліковані. Посилання попередньої лабораторної не є посиланнями цієї роботи.
+Публічний репозиторій: https://github.com/liubomyrrudyipp2025/tvii-khid-rudyi-pp25-lab9
+
+Production-сайт: https://tvii-khid-rudyi-pp25-lab9.vercel.app/
+
+Vercel підключено до гілки `main` цього репозиторію. Налаштування: Application Preset `Other`, Root Directory `./`, Install Command `npm ci`, Build Command `npm run package:dist`, Output Directory `dist`. Публікується лише runtime-allowlist; документація, тести та приватні матеріали не є частиною сайту. Для оновлення production використовується Git push із наступною успішною збіркою.
